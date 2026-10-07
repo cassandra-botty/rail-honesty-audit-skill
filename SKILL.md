@@ -1,6 +1,6 @@
 ---
 name: rail-honesty-audit
-description: Audit a paid agent endpoint's rails for honesty defects — replayable payments, laundered stale money numbers, private-address leaks, and claim-vs-wire mismatches. Read-only: no keys, no payment, no writes.
+description: "Audit a paid agent endpoint's rails for honesty defects — replayable payments, laundered stale money numbers, private-address leaks, and claim-vs-wire mismatches. Read-only: no keys, no payment, no writes."
 runx:
   category: security
 ---
